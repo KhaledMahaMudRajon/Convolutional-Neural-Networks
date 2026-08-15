@@ -1,4 +1,6 @@
 # Convolutional-Neural-Networks
+
+<img width="790" height="74" alt="Screenshot From 2026-08-16 00-41-26" src="https://github.com/user-attachments/assets/c7fab590-f13c-483f-afcd-8f8d95adcd5d" />
 <img width="1635" height="405" alt="Screenshot From 2026-08-16 00-32-39" src="https://github.com/user-attachments/assets/adcaff0c-27c6-4391-bdff-aeb8aa533dc0" />
 
 <img width="983" height="369" alt="Screenshot From 2026-08-16 00-30-36" src="https://github.com/user-attachments/assets/d8e0a828-c9e1-40ab-b05a-9f67474c011b" />
