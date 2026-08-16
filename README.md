@@ -1,4 +1,4 @@
-CNN full workflow
+## CNN full workflow
 
 ## 1. Automatic Data Retrieval (No Manual Uploads)
 <img width="1650" height="197" alt="Screenshot From 2026-08-16 21-52-51" src="https://github.com/user-attachments/assets/83cad6c7-0c09-4c19-b3fb-31404575fffd" />
@@ -32,6 +32,7 @@ CNN full workflow
 
 ## 10. Visual Error Analysis — Misclassified Validation Images
 <img width="762" height="98" alt="Screenshot From 2026-08-16 21-55-21" src="https://github.com/user-attachments/assets/1a066984-984c-4324-ac06-108f08000303" />
+
 ## 11. Accuracy comparison
 <img width="762" height="98" alt="Screenshot From 2026-08-16 21-55-29" src="https://github.com/user-attachments/assets/cdcbd241-f363-4871-8974-9830ea96dd37" />
 
